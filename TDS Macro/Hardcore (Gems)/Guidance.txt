@@ -1,0 +1,20 @@
+; TDS Hardcore -- Gems, Exp
+; Status : *Working*
+
+- Towers needed: Minigunner
+
+Slot 1 MUST be minigunner
+Map: Wretched Front
+
+; Estimation
+
+g = gems
+
+ --- 43g/match ---
+1 match = ~3 minutes (3 minutes 3-10 seconds)
+1 hour = 43 * 20 = 860 gems
+24 hours = 43 * 480 = 20.640 gems
+
+
+Recommended use v1 ("TDS Hardcore gem grind.ahk") -> uses ahk v1
+

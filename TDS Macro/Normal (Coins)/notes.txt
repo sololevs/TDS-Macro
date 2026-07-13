@@ -1,0 +1,26 @@
+Towers: Trapper, Brawler, Juggernaut
+
+Step 1: Place 4 brawlers level 0
+Step 2: Place 6 trappers level 1 set to strongest
+Step 3: Upgrade trappers to level 2
+Step 4: Place Juggernaut
+Step 5: wait until die
+
+
+wave 2: place brawler 2
+wait 2000ms place brawler 3
+wave 3: place brawler 4
+wave 4: place trapper 1
+wave 5: trapper 2 (uprgade trapper 1 to lvl 1 first)
+wave 6: trapper 2 level 1
+wait 3-5s place trapper 3 
+wave 7: upg trapper 3 to lvl 1
+wave 9: upg trappers to lvl 2
+wave 10: upg trapper to lvl 2
+awve 11: upg trapper(s) to lvl 2
+wave 15: place jugg
+wave 16-17: die beacus eof shoiftgunne
+
+
+1 match: 235 coins, 87 exp, 38 exp jugg
+wait to afford jugg

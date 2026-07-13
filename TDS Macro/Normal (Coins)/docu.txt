@@ -1,0 +1,26 @@
+Frost mode := {x: 1465, y: 584}
+ReadyButton := {x: 1020, y: 337}
+
+
+WAIT 14s	until the real match begins
+setup is roughly 6 seconds
+
+that means wait around 7-8s
+
+
+place brawler level 1
+wave 1: 9s
+wave 2: place brawler level 1 - 10s
+wave 3: place brawler level 1 and brawler level 0 (wait 5 seconds to place bralwer lvl 0) - 11s
+wave 4: upgrade brawler to lvl 1 and place a new bralwer lvl 0 - 11s
+wave 5: upg brawler, place 2 brawlers level 1 - 13s
+wave 6: place 3 brawlers level 1 (short delay for last brawler) - 13s
+wave 7: autoskip till wave 9 - 40s
+
+
+166 coins with 2 mins
+
+x1: 633 w = 732 - 633 = 99 h = 101 - 73 = 28
+y1: 73
+x2: 732
+y2: 101

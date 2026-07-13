@@ -1,0 +1,22 @@
+SetTimer FunctionObject, Period, Priority
+#Requires AutoHotkey v2.0
+
+; Declare the map and assign coordinate objects to Plot1, Plot2, Plot3
+PlotMap := Map(
+    "Plot1", {x: 500,  y: 300},
+    "Plot2", {x: 650,  y: 300},
+    "Plot3", {x: 800,  y: 300}
+)
+
+MyVariable := "New Value" inside a hotkey? ➡️ Needs global
+
+MyVariable++ inside a hotkey? ➡️ Needs global
+
+MouseMove(PlotMap["Plot1"].x) inside a hotkey? ➡️ No global needed
+
+SkipButtonFunction(&WaveCount, ...) inside a hotkey? ➡️ No global needed
+
+u only need global if the variable value is changed inside a hotkey like 
+global toggle
+toggle := !toggle
+js like that
